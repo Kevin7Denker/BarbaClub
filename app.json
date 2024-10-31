@@ -4,10 +4,10 @@
     "slug": "BarbaClub",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./src/Assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./src/Assetssplash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -16,12 +16,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./src/Assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.kv.denker.BarbaClub"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./src/Assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "97b71b9f-98f5-4078-9766-48f7fd4cc98a"
+      }
     }
   }
 }
