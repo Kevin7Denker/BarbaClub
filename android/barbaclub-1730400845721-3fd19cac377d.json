@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "barbaclub-1730400845721",
+  "private_key_id": "3fd19cac377d2c645e5362a983dff05315007e5e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCWdikJYD3MlPiq\no0v6XaeMKgsXFWqAMHT80g0Gjj9mYwMiyRFH2ZL5qO0kLjX/KDo2h8H4WM6p4vPn\nboGwp00T672Iop0oRZ5LbB684HOdAJV761dk+KYvjCT2nSlgBQeZXAdXdiu17hWQ\ndQ4RvPPNSWn6xizb/UjiIW1OPjesOm9vyh0+xvsvnZX3p9XrHkHNIxyE92UaahK0\nj6EDhu8Uemw6A2CqTw5vvlUn1GTt9EaljOlpxPiMcu26EswOG22WlwGa3kHgVZVw\nPWvvCsMIVaNi3x+XaONAU2qHYDkQnbK42oEugie3AYRxe2vxEQYWil4CWSsZn3Q2\nD9dnD/vVAgMBAAECgf9wKpKUfnmTp6JW9bRfojbjH4hgD4Npb3tQ/oF8TfGTOykv\nAI6Snz4ZzNUkEBQJmd/zPRo19iXzbIxnmPopkBkNSp0ojepMLyQN2u7n33+L7jJH\nLz6BfaErM4nknjFhd0q8zkD5o/doMxVC1uz06dQ5SajfhXr/cXCBmcxFOVfRbplm\nP1Ui/EFIwD7v4Uml4ejSOpd1pWq7M99+QQG+yoN7LNSAYq2smmUw44E/+SE+qGkh\nCfKKZ5bRejlqG0bZ0m1EsEkOQDdD++lW0E9sA3QC4sZYb89IfTPPiG1Fitb0e1zW\nQ7XcxR9mSuIBHUarDT/rqVkkYAgWeuEEGjI2p30CgYEA0k4pzah5AfrqOEDG7iUl\nn9ABR6zfU/GqoPT179+rza9xJ/L0bZQza50wkXOrKBqcv/u0ifNEdv+b51fIz27S\n1nChcRObSDx/D/jF5mUGuXUArgZFy5flLDCLuXiUiXG31Hbovx6CN9X8CeiXhRpJ\nnLtkvWIhbg8qKjUJyDRiT+cCgYEAtydM/O/1Ob9E3fpmBWa12N4YMopjCpCmE27y\nRo1FlC7eiy+n7869Veq7Dr04GkatUlNKL4fHA13NRL++LHQfkDeNU/4iATO32DMd\nZXE65H/JvYnRxKNiC3oa88VEQyBFtoRGqq0FUprrGO/fMR0fpBrhD+pdlJc8yef5\nmVnHjuMCgYEAkm8sem/hejh9WBf6rB2fegy6p26+vlOarKKEkLbciMatctSfz6EO\nwNLd25l/xtfo52DbD+cceAN5Sfd88rrHAdvA/dxaFk1RaAyft9IGgaHvjDz/4khs\noX1X/RfxzVYqWz1EyLb0ku5jpX6X6m0oboKpHZkzj8/tWyA9JHMdNWcCgYEAr97i\nM6Pr03bSF2GBo8Ab8FJb4/Q05Ik/oDuSE6NGY+OZuQea+FCKSL0swBt8iubBOeNW\nwktcE+R33oNMhv0+7coaQMQwPP0/lTCIEsfm6FG5E/MKZgsJc8HdraUIRnjv2DIu\ndWfNS6QNCpYTuOKhZoCVCyZek/eh3LOPXuzyDkcCgYA5kCc4U9oTb7H88R4sWWZC\nQsqh2yb29zYRalC8I6LlcdF4Za78K/8v73FlY86whCZMJtKiRjZMVFRW1K1ftVTN\nISQW7y/hquLOJ3e/0kAEKAZ4MApT+tvVW3FCux+RQhLhfXi8yADHH9c11VnxSytk\ndxNeEFv3NyC+h47b07N1UA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "barbaclub@barbaclub-1730400845721.iam.gserviceaccount.com",
+  "client_id": "104537537347030346632",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/barbaclub%40barbaclub-1730400845721.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
