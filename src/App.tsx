@@ -1,7 +1,16 @@
+import React from "react";
+
 import { StatusBar } from "expo-status-bar";
 import { StyleSheet, Text, View } from "react-native";
+import { useEffect } from "react";
 
-export default function App() {
+import ServerConfig from "./Server/ServerConfig";
+
+function App() {
+  useEffect(() => {
+    const server = new ServerConfig();
+  }, []);
+
   return (
     <View style={styles.container}>
       <Text>BarbaClub!</Text>
@@ -18,3 +27,5 @@ const styles = StyleSheet.create({
     justifyContent: "center",
   },
 });
+
+export default App;
